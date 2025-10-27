@@ -1,0 +1,6 @@
+{
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "workbench.startupEditor": "readme",
+  "workbench.colorTheme": "Dracula Theme",
+  "chat.disableAIFeatures": true
+}
